@@ -51,4 +51,4 @@ Resolução de exercícios práticos focados em infraestrutura e backend básico
 
 ---
 <p align="center">
-  Desenvolvido por <strong>Caroline Carvalho</strong> ✨
+  Desenvolvido por <strong>Caroline de Carvalho Mendes</strong> ✨
